@@ -10,7 +10,7 @@ I'm a passionate developer and creative coder who loves building **interactive g
 
 📍 **Location:** Ready to innovate anywhere  
 💻 **Focus:** Game Development | Web Applications | Interactive Experiences  
-🌱 **Currently Learning:** C#, Advanced Game Mechanics  
+🌱 **Currently Learning:** C#, Advanced Game Mechanics ,python ,JavaScript ,java, cyber security  
 📫 **Reach out:** 180219147+SuperY613@users.noreply.github.com
 
 ---

@@ -175,7 +175,7 @@ A 3D shooting game project currently under development.
 
 <div align="center">
 
-<a href="https://github.com/SuperY613"><img height="180" src="https://github-readme-stats.vercel.app/api?username=SuperY613&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=67E8F9&text_color=C9D1D9" alt="SuperY613 GitHub stats" /></a>
+<a href="https://github.com/SuperY613"><img height="180" src="https://github-readme-stats.vercel.app/api?username=SuperY613&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=67E8F9&text_color=C9D1D9" alt="SuperY613 GitHub stats" /></a>
 <a href="https://github.com/SuperY613?tab=repositories"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperY613&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9" alt="SuperY613 most-used languages" /></a>
 
 <br />

@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/SuperY613">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&color=0:020617,30:111827,55:312E81,78:2563EB,100:06B6D4&text=SUPERY613&fontColor=FFFFFF&fontSize=68&fontAlignY=38&desc=BUILD%20•%20PLAY%20•%20EXPLORE&descAlignY=58&descSize=20&animation=fadeIn&stroke=22D3EE&strokeWidth=2" alt="SUPERY613 — build, play, explore" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&color=0:020617,30:111827,55:312E81,78:2563EB,100:06B6D4&text=SUPERY613&fontColor=FFFFFF&fontSize=68&fontAlignY=38&desc=BUILD%20%E2%80%A2%20PLAY%20%E2%80%A2%20EXPLORE&descAlignY=58&descSize=20&animation=fadeIn&stroke=22D3EE&strokeWidth=2" alt="SUPERY613 — build, play, explore" />
 </a>
 
 <a href="https://github.com/SuperY613?tab=followers"><img src="https://img.shields.io/github/followers/SuperY613?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&color=7C3AED&labelColor=111827" alt="GitHub followers" /></a>
@@ -10,9 +10,7 @@
 
 <br />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=780&lines=Turning+ideas+into+playable+experiences;Building+games+%2B+tools+%2B+AI+experiments;JavaScript+•+C%23+•+Python+•+Java;Always+learning.+Always+building." alt="Animated introduction" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=780&lines=Turning+ideas+into+playable+experiences;Building+games+%2B+tools+%2B+AI+experiments;JavaScript+%E2%80%A2+C%23+%E2%80%A2+Python+%E2%80%A2+Java;Always+learning.+Always+building." alt="Animated introduction" />
 
 </div>
 

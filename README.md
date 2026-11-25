@@ -1,17 +1,16 @@
-<!--
-  This README updates itself in your browser using GitHub's public REST API.
-  No workflow or manual maintenance is required.
--->
-
 <div align="center">
 
-# <img src="https://raw.githubusercontent.com/SuperY613/SuperY613/main/avatar.png" width="64" height="64" align="center" /> SuperY613
+<a href="https://github.com/SuperY613">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:7C3AED,50:2563EB,100:06B6D4&text=SuperY613&fontColor=ffffff&fontSize=54&fontAlignY=38&desc=Creative%20Developer%20%7C%20Game%20Builder%20%7C%20Web%20App%20Enthusiast&descAlignY=60&descSize=16" alt="SuperY613 profile banner" width="100%" />
+</a>
 
-[![GitHub followers](https://img.shields.io/github/followers/SuperY613?label=Followers&style=for-the-badge&logo=github&color=7C3AED)](https://github.com/SuperY613?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/SuperY613?affiliations=OWNER&style=for-the-badge&logo=github&color=F59E0B)](https://github.com/SuperY613?tab=repositories&q=&type=&language=&sort=stargazers)
-[![Profile views](https://komarev.com/ghpvc/?username=SuperY613&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)](https://github.com/SuperY613)
+<a href="https://github.com/SuperY613?tab=followers"><img src="https://img.shields.io/github/followers/SuperY613?label=Followers&style=for-the-badge&logo=github&color=7C3AED" alt="GitHub followers" /></a>
+<a href="https://github.com/SuperY613?tab=repositories"><img src="https://img.shields.io/github/stars/SuperY613?affiliations=OWNER&style=for-the-badge&logo=github&color=F59E0B" alt="GitHub stars" /></a>
+<a href="https://github.com/SuperY613"><img src="https://komarev.com/ghpvc/?username=SuperY613&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" alt="Profile views" /></a>
 
-**Creative developer · Game builder · Web app enthusiast**
+### Building playful games, useful tools, and creative web experiences
+
+[Explore repositories](https://github.com/SuperY613?tab=repositories&sort=updated) · [See contributions](https://github.com/SuperY613?tab=overview&from=2020-01-01&to=2099-12-31) · [Get in touch](mailto:180219147+SuperY613@users.noreply.github.com)
 
 </div>
 
@@ -19,110 +18,89 @@
 
 ## 🚀 About Me
 
-I build **interactive games, web applications, and AI experiments** — turning ideas into playable, useful experiences. My portfolio evolves continuously, with a current focus on JavaScript, C#, HTML/CSS, Python, Java, and cybersecurity.
+I build **interactive games, web applications, and AI experiments**—turning ideas into playable, useful experiences. I enjoy learning by making things, trying bold ideas, and improving projects one iteration at a time.
 
-- 🎮 **Game development:** physics, UI, puzzles, AI, and 3D concepts
-- 🌐 **Web development:** responsive tools and interactive applications
-- 🧠 **Learning:** C#, Python, Java, JavaScript, and advanced game mechanics
-- ✨ **Approach:** learn by building, test boldly, and ship improvements
+- 🎮 **Games:** physics, puzzles, interfaces, AI, and 3D concepts
+- 🌐 **Web:** responsive tools, maps, and interactive applications
+- 🧠 **Exploring:** JavaScript, C#, Python, Java, and game mechanics
+- ✨ **Mindset:** experiment, learn, and keep shipping
 
 ---
 
-## 🗂️ Live Repository Showcase
+## 🗂️ Projects — live from GitHub
 
-> This section loads and updates **automatically**. Whenever SuperY613 creates a new public repository, it appears here with its name, description, language, stars, and direct GitHub link.
-
-<div id="repository-showcase">
-
-### Projects are loading dynamically
-
-<p><em>New repositories appear automatically on GitHub's public repository page.</em></p>
-
-</div>
-
-<!-- GitHub README content cannot execute JavaScript, so GitHub API widgets use generated images/links. -->
-
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=TorahTongue_1.0&theme=tokyonight&hide_border=true)](https://github.com/SuperY613/TorahTongue_1.0)
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=SuperYvid_ed&theme=tokyonight&hide_border=true)](https://github.com/SuperY613/SuperYvid_ed)
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=Hacking-game-1.0&theme=tokyonight&hide_border=true)](https://github.com/SuperY613/Hacking-game-1.0)
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=Flappy-bird-game-V1-.0&theme=tokyonight&hide_border=true)](https://github.com/SuperY613/Flappy-bird-game-V1-.0)
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=Racing-game&theme=tokyonight&hide_border=true)](https://github.com/SuperY613/Racing-game)
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=3DShootingGame-vs-.1.0&theme=tokyonight&hide_border=true)](https://github.com/SuperY613/3DShootingGame-vs-.1.0)
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=service-finder-map&theme=tokyonight&hide_border=true)](https://github.com/SuperY613/service-finder-map)
-[![Repository Card](https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=Tic-Tac-Toe-Ai&theme=tokyonight&hide_border=true)](https://github.com/SuperY613/Tic-Tac-Toe-Ai)
+GitHub README Markdown cannot run JavaScript or fetch and render a changing repository list by itself. For the live, up-to-date project list, use GitHub's repository page sorted by recent updates:
 
 <p align="center">
   <a href="https://github.com/SuperY613?tab=repositories&sort=updated">
-    <img src="https://img.shields.io/badge/Explore_all_live_repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Browse%20all%20repositories-Live%20on%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories, sorted by recent updates" />
+  </a>
+  <a href="https://github.com/SuperY613?tab=repositories&type=public">
+    <img src="https://img.shields.io/badge/Public%20projects-View%20repository%20list-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="View public repositories" />
   </a>
 </p>
 
+> Repository names, descriptions, languages, and update times are maintained by GitHub on that live page. The graphics and metrics below are generated from public GitHub data by their respective services; availability and refresh timing depend on those services.
+
 ---
 
-## 🛠️ Technology
+## 🛠️ Tech & interests
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,cs,python,java,cpp,git,github,linux&theme=dark" />
-</p>
+<div align="center">
 
-| Area | Tools & Focus |
+<img src="https://skillicons.dev/icons?i=js,html,css,cs,python,java,cpp,git,github,linux&theme=dark" alt="JavaScript, HTML, CSS, C#, Python, Java, C++, Git, GitHub, and Linux" />
+
+</div>
+
+| Area | Focus |
 |:---|:---|
 | **Languages** | JavaScript · C# · Python · Java · HTML · CSS |
-| **Game Design** | Physics · collision systems · AI · UI · 3D concepts |
+| **Game development** | Physics · collision systems · AI · UI · 3D concepts |
 | **Web** | Responsive interfaces · mapping · interactive experiences |
-| **Security** | Cybersecurity foundations · puzzle systems |
+| **Learning** | Cybersecurity foundations · algorithms · puzzle systems |
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 Live GitHub dashboard
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SuperY613&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperY613&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/SuperY613">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=SuperY613&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=06B6D4" alt="GitHub profile statistics" />
+  </a>
+  <a href="https://github.com/SuperY613?tab=repositories">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperY613&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" alt="Most used public repository languages" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuperY613&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SuperY613&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=F59E0B&currStreakLabel=06B6D4" alt="GitHub contribution streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuperY613&theme=tokyo-night&hide_border=true&area=true" />
+  <a href="https://github.com/SuperY613?tab=activity">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SuperY613&theme=tokyo-night&hide_border=true&area=true&color=06B6D4&line=7C3AED&point=F59E0B" alt="GitHub contribution activity graph" width="100%" />
+  </a>
 </p>
+
+<p align="center"><sub>These cards use public profile and contribution data. They may be cached, rate-limited, or temporarily unavailable if a visualization service is down.</sub></p>
 
 ---
 
-## 🌟 Featured Highlights
-
-- **TorahTongue_1.0** — age-based lessons for Hebrew, Yiddish, and Talmudic Aramaic, with tradition-specific pronunciation and text study
-- **SuperYvid_ed** — high-tech AI-assisted video editor prototype with neon UI and timeline tools
-- **Hacking-game-1.0** — interactive, puzzle-themed strategic gameplay
-- **Flappy-bird-game-V1-.0** — JavaScript recreation of classic Flappy-style mechanics
-- **service-finder-map** — location-focused service discovery and mapping
-- **Tic-Tac-Toe-Ai** — intelligent Tic-Tac-Toe with algorithmic move evaluation
-
----
-
-## 🤝 Let’s Build Something
+## 🤝 Let’s build something
 
 I’m interested in **game development, creative web experiences, practical tools, AI experiments, and open collaboration**.
 
 - 💬 Share a project idea or improvement
-- 🧩 Discuss algorithms and game mechanics
+- 🧩 Talk algorithms and game mechanics
 - 🤝 Collaborate on open-source or learning projects
 
 <p align="center">
-  <a href="mailto:180219147+SuperY613@users.noreply.github.com">
-    <img src="https://img.shields.io/badge/Email-Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/SuperY613?tab=repositories">
-    <img src="https://img.shields.io/badge/View-All-Projects-0EA5E9?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  <a href="mailto:180219147+SuperY613@users.noreply.github.com"><img src="https://img.shields.io/badge/Email%20me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <a href="https://github.com/SuperY613?tab=repositories"><img src="https://img.shields.io/badge/See%20my%20projects-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="See my projects" /></a>
 </p>
 
 <div align="center">
 
-### Made with curiosity, code, and creativity
-
-*Building, learning, and improving one project at a time.*
+*Made with curiosity, code, and creativity.*
 
 </div>

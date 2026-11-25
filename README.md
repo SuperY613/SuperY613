@@ -1,16 +1,25 @@
 <div align="center">
 
 <a href="https://github.com/SuperY613">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&color=0:020617,30:111827,55:312E81,78:2563EB,100:06B6D4&text=SUPERY613&fontColor=FFFFFF&fontSize=68&fontAlignY=38&desc=BUILD%20%E2%80%A2%20PLAY%20%E2%80%A2%20EXPLORE&descAlignY=58&descSize=20&animation=fadeIn&stroke=22D3EE&strokeWidth=2" alt="SUPERY613 — build, play, explore" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&color=0:020617,30:111827,55:312E81,78:2563EB,100:06B6D4&text=SUPERY613&fontColor=FFFFFF&fontSize=68&fontAlignY=43&desc=Developer%20%E2%80%A2%20Game%20Builder%20%E2%80%A2%20Creative%20Coder&descAlignY=62&descSize=18&descColor=CFFAFE&animation=fadeIn&font=Montserrat" alt="SuperY613 profile banner" />
 </a>
 
 <a href="https://github.com/SuperY613?tab=followers"><img src="https://img.shields.io/github/followers/SuperY613?style=for-the-badge&label=FOLLOWERS&logo=github&logoColor=white&color=7C3AED&labelColor=111827" alt="GitHub followers" /></a>
-<a href="https://github.com/SuperY613?tab=repositories"><img src="https://img.shields.io/github/stars/SuperY613?affiliations=OWNER&style=for-the-badge&label=GITHUB%20STARS&logo=github&logoColor=white&color=F59E0B&labelColor=111827" alt="GitHub stars" /></a>
+<a href="https://github.com/SuperY613?tab=repositories"><img src="https://img.shields.io/github/stars/SuperY613?affiliations=OWNER&style=for-the-badge&label=GITHUB%20STARS&logo=github&logoColor=white&color=2563EB&labelColor=111827" alt="GitHub stars" /></a>
 <img src="https://komarev.com/ghpvc/?username=SuperY613&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS&labelColor=111827" alt="Profile views" />
 
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=780&lines=Turning+ideas+into+playable+experiences;Building+games+%2B+tools+%2B+AI+experiments;JavaScript+%E2%80%A2+C%23+%E2%80%A2+Python+%E2%80%A2+Java;Always+learning.+Always+building." alt="Animated introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=780&lines=Turning+ideas+into+playable+experiences;Building+games,+tools,+and+interactive+interfaces;Learning+one+experiment+at+a+time" alt="Typing introduction" />
+
+## 🌐 Learning Profiles
+
+<a href="https://www.sololearn.com/en/profile/33615966">
+  <img src="https://img.shields.io/badge/SoloLearn-View_Profile-149EF2?style=for-the-badge&logo=sololearn&logoColor=white&labelColor=111827" alt="SoloLearn profile" />
+</a>
+<a href="https://www.codecademy.com/profiles/SuperY613">
+  <img src="https://img.shields.io/badge/Codecademy-View_Profile-204056?style=for-the-badge&logo=codecademy&logoColor=white&labelColor=111827" alt="Codecademy profile" />
+</a>
 
 </div>
 
@@ -51,7 +60,7 @@ A curated showcase of public builds — descriptions and cards automatically ref
 
 ### 🕎 [TorahTongue_1.0](https://github.com/SuperY613/TorahTongue_1.0)
 
-<a href="https://github.com/SuperY613/TorahTongue_1.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=TorahTongue_1.0&theme=tokyonight&hide_border=true&description_lines_count=2&bg_color=0D1117&title_color=C4B5FD&icon_color=67E8F9" alt="TorahTongue project card" /></a>
+<a href="https://github.com/SuperY613/TorahTongue_1.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=TorahTongue_1.0&theme=tokyonight&hide_border=true&description_lines_count=3" alt="TorahTongue 1.0" /></a>
 
 Teaches Hebrew, Yiddish, and Talmudic Aramaic through age-based lessons, pronunciation, audio, vocabulary, and guided text study.
 
@@ -62,7 +71,7 @@ Teaches Hebrew, Yiddish, and Talmudic Aramaic through age-based lessons, pronunc
 
 ### 🗺️ [service-finder-map](https://github.com/SuperY613/service-finder-map)
 
-<a href="https://github.com/SuperY613/service-finder-map"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=service-finder-map&theme=tokyonight&hide_border=true&description_lines_count=2&bg_color=0D1117&title_color=C4B5FD&icon_color=67E8F9" alt="Service finder project card" /></a>
+<a href="https://github.com/SuperY613/service-finder-map"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=service-finder-map&theme=tokyonight&hide_border=true&description_lines_count=3" alt="service finder map" /></a>
 
 An interactive map for discovering nearby services with responsive, mobile-ready components.
 
@@ -75,7 +84,7 @@ An interactive map for discovering nearby services with responsive, mobile-ready
 
 ### 🕹️ [Hacking-game-1.0](https://github.com/SuperY613/Hacking-game-1.0)
 
-<a href="https://github.com/SuperY613/Hacking-game-1.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=Hacking-game-1.0&theme=tokyonight&hide_border=true&description_lines_count=2&bg_color=0D1117&title_color=C4B5FD&icon_color=67E8F9" alt="Hacking game project card" /></a>
+<a href="https://github.com/SuperY613/Hacking-game-1.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=Hacking-game-1.0&theme=tokyonight&hide_border=true&description_lines_count=3" alt="Hacking game 1.0" /></a>
 
 An interactive JavaScript experience inspired by hacking interfaces and puzzle mechanics.
 
@@ -86,7 +95,7 @@ An interactive JavaScript experience inspired by hacking interfaces and puzzle m
 
 ### 🎬 [SuperYvid_ed](https://github.com/SuperY613/SuperYvid_ed)
 
-<a href="https://github.com/SuperY613/SuperYvid_ed"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=SuperYvid_ed&theme=tokyonight&hide_border=true&description_lines_count=2&bg_color=0D1117&title_color=C4B5FD&icon_color=67E8F9" alt="SuperYvid editor project card" /></a>
+<a href="https://github.com/SuperY613/SuperYvid_ed"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=SuperYvid_ed&theme=tokyonight&hide_border=true&description_lines_count=3" alt="SuperYvid_ed" /></a>
 
 A high-tech AI-assisted video editor prototype with a neon interface and timeline tools.
 
@@ -99,7 +108,7 @@ A high-tech AI-assisted video editor prototype with a neon interface and timelin
 
 ### 🐤 [Flappy-bird-game-V1-.0](https://github.com/SuperY613/Flappy-bird-game-V1-.0)
 
-<a href="https://github.com/SuperY613/Flappy-bird-game-V1-.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=Flappy-bird-game-V1-.0&theme=tokyonight&hide_border=true&description_lines_count=2&bg_color=0D1117&title_color=C4B5FD&icon_color=67E8F9" alt="Flappy Bird project card" /></a>
+<a href="https://github.com/SuperY613/Flappy-bird-game-V1-.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=Flappy-bird-game-V1-.0&theme=tokyonight&hide_border=true&description_lines_count=3" alt="Flappy bird game" /></a>
 
 A JavaScript take on the classic Flappy Bird-style game.
 
@@ -110,7 +119,7 @@ A JavaScript take on the classic Flappy Bird-style game.
 
 ### 🏎️ [Racing-game](https://github.com/SuperY613/Racing-game)
 
-<a href="https://github.com/SuperY613/Racing-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=Racing-game&theme=tokyonight&hide_border=true&description_lines_count=2&bg_color=0D1117&title_color=C4B5FD&icon_color=67E8F9" alt="Racing game project card" /></a>
+<a href="https://github.com/SuperY613/Racing-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=Racing-game&theme=tokyonight&hide_border=true&description_lines_count=3" alt="Racing game" /></a>
 
 A public racing game project currently under development.
 
@@ -123,7 +132,7 @@ A public racing game project currently under development.
 
 ### ⭕ [Tic-Tac-Toe-Ai](https://github.com/SuperY613/Tic-Tac-Toe-Ai)
 
-<a href="https://github.com/SuperY613/Tic-Tac-Toe-Ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=Tic-Tac-Toe-Ai&theme=tokyonight&hide_border=true&description_lines_count=2&bg_color=0D1117&title_color=C4B5FD&icon_color=67E8F9" alt="Tic-Tac-Toe AI project card" /></a>
+<a href="https://github.com/SuperY613/Tic-Tac-Toe-Ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=Tic-Tac-Toe-Ai&theme=tokyonight&hide_border=true&description_lines_count=3" alt="Tic Tac Toe AI" /></a>
 
 An AI-oriented take on the classic Tic-Tac-Toe game.
 
@@ -134,7 +143,7 @@ An AI-oriented take on the classic Tic-Tac-Toe game.
 
 ### 🚀 [3DShootingGame-vs-.1.0](https://github.com/SuperY613/3DShootingGame-vs-.1.0)
 
-<a href="https://github.com/SuperY613/3DShootingGame-vs-.1.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=3DShootingGame-vs-.1.0&theme=tokyonight&hide_border=true&description_lines_count=2&bg_color=0D1117&title_color=C4B5FD&icon_color=67E8F9" alt="3D shooting game project card" /></a>
+<a href="https://github.com/SuperY613/3DShootingGame-vs-.1.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=3DShootingGame-vs-.1.0&theme=tokyonight&hide_border=true&description_lines_count=3" alt="3D shooting game" /></a>
 
 A 3D shooting game project currently under development.
 
@@ -146,7 +155,7 @@ A 3D shooting game project currently under development.
 
 <div align="center">
 
-<a href="https://github.com/SuperY613?tab=repositories&sort=updated"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=67E8F9&labelColor=111827" alt="Explore all repositories" /></a>
+<a href="https://github.com/SuperY613?tab=repositories&sort=updated"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-111827?style=for-the-badge&logo=github&logoColor=67E8F9&labelColor=111827" alt="Explore repositories" /></a>
 
 </div>
 
@@ -180,8 +189,8 @@ A 3D shooting game project currently under development.
 
 <div align="center">
 
-<a href="https://github.com/SuperY613"><img height="180" src="https://github-readme-stats.vercel.app/api?username=SuperY613&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=C4B5FD&icon_color=67E8F9&text_color=C9D1D9" alt="GitHub statistics" /></a>
-<a href="https://github.com/SuperY613?tab=repositories"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperY613&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=C9D1D9" alt="Top languages" /></a>
+<a href="https://github.com/SuperY613"><img height="180" src="https://github-readme-stats.vercel.app/api?username=SuperY613&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" /></a>
+<a href="https://github.com/SuperY613?tab=repositories"><img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuperY613&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top languages" /></a>
 
 <br />
 
@@ -189,7 +198,7 @@ A 3D shooting game project currently under development.
 
 <br />
 
-<a href="https://github.com/SuperY613?tab=activity"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SuperY613&theme=tokyo-night&hide_border=true&area=true&custom_title=SuperY613%27s%20Contribution%20Activity&color=06B6D4&line=7C3AED&point=F59E0B" alt="Contribution activity graph" /></a>
+<a href="https://github.com/SuperY613?tab=activity"><img src="https://github-readme-activity-graph.vercel.app/graph?username=SuperY613&theme=tokyo-night&hide_border=true&area=true&custom_title=SuperY613%27s%20Contribution%20Graph" alt="Activity graph" /></a>
 
 </div>
 

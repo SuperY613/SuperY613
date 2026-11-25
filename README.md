@@ -27,20 +27,114 @@ I build **interactive games, web applications, and AI experiments**—turning id
 
 ---
 
-## 🗂️ Projects — live from GitHub
+## 🗂️ Public projects — live from GitHub
 
-GitHub README Markdown cannot run JavaScript or fetch and render a changing repository list by itself. For the live, up-to-date project list, use GitHub's repository page sorted by recent updates:
+A live showcase of every public repository. Project information updates automatically as GitHub data changes.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [TorahTongue_1.0](https://github.com/SuperY613/TorahTongue_1.0)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=TorahTongue_1.0&theme=tokyonight&hide_border=true&description_lines_count=2" alt="TorahTongue project card" />
+
+Teaches Hebrew, Yiddish, and Talmudic Aramaic through age-based lessons, pronunciation, audio, vocabulary, and guided text study.
+
+**Languages:** JavaScript · HTML · CSS
+
+</td>
+<td width="50%" valign="top">
+
+### [service-finder-map](https://github.com/SuperY613/service-finder-map)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=service-finder-map&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Service finder map project card" />
+
+Interactive map for discovering nearby services with responsive and mobile-ready components.
+
+**Languages:** HTML · Dart · JavaScript · CSS · Shell
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Hacking-game-1.0](https://github.com/SuperY613/Hacking-game-1.0)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=Hacking-game-1.0&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Hacking game project card" />
+
+An interactive JavaScript hacking-themed game experience.
+
+**Language:** JavaScript
+
+</td>
+<td width="50%" valign="top">
+
+### [SuperYvid_ed](https://github.com/SuperY613/SuperYvid_ed)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=SuperYvid_ed&theme=tokyonight&hide_border=true&description_lines_count=2" alt="SuperY video editor project card" />
+
+High-tech AI-assisted video editor prototype with a neon interface and timeline tools.
+
+**Language:** HTML
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Flappy-bird-game-V1-.0](https://github.com/SuperY613/Flappy-bird-game-V1-.0)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=Flappy-bird-game-V1-.0&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Flappy Bird project card" />
+
+A JavaScript version of the classic Flappy Bird-style game.
+
+**Language:** JavaScript
+
+</td>
+<td width="50%" valign="top">
+
+### [Racing-game](https://github.com/SuperY613/Racing-game)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=Racing-game&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Racing game project card" />
+
+A public racing game project currently under development.
+
+**Language:** To be detected by GitHub
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Tic-Tac-Toe-Ai](https://github.com/SuperY613/Tic-Tac-Toe-Ai)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=Tic-Tac-Toe-Ai&theme=tokyonight&hide_border=true&description_lines_count=2" alt="Tic-Tac-Toe AI project card" />
+
+An AI-oriented Tic-Tac-Toe project.
+
+**Language:** To be detected by GitHub
+
+</td>
+<td width="50%" valign="top">
+
+### [3DShootingGame-vs-.1.0](https://github.com/SuperY613/3DShootingGame-vs-.1.0)
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=SuperY613&repo=3DShootingGame-vs-.1.0&theme=tokyonight&hide_border=true&description_lines_count=2" alt="3D shooting game project card" />
+
+A 3D shooting game project currently under development.
+
+**Language:** To be detected by GitHub
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://github.com/SuperY613?tab=repositories&sort=updated">
-    <img src="https://img.shields.io/badge/Browse%20all%20repositories-Live%20on%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Browse all repositories, sorted by recent updates" />
-  </a>
-  <a href="https://github.com/SuperY613?tab=repositories&type=public">
-    <img src="https://img.shields.io/badge/Public%20projects-View%20repository%20list-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="View public repositories" />
-  </a>
+  <a href="https://github.com/SuperY613?tab=repositories&sort=updated"><img src="https://img.shields.io/badge/View%20all%20public%20repositories-Live%20on%20GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View all public repositories" /></a>
 </p>
 
-> Repository names, descriptions, languages, and update times are maintained by GitHub on that live page. The graphics and metrics below are generated from public GitHub data by their respective services; availability and refresh timing depend on those services.
+> The project cards are dynamically generated from public GitHub repository data. New repositories, stars, descriptions, and language information may update as the GitHub services refresh.
 
 ---
 
